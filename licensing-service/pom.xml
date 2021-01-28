@@ -11,9 +11,9 @@
     <name>Eagle Eye Licensing Service</name>
     <description>Licensing Service</description>
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.4.4.RELEASE</version>
+        <groupId>com.thoughtmechanix</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+        <artifactId>tmx-parent-pom</artifactId>
     </parent>
     <dependencyManagement>
         <dependencies>
